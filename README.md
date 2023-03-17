@@ -31,3 +31,4 @@ for i in range (1,10,2):
         print( f"I={i} J={i+4}"   )
 
 ```
+    X, Y = map(int, input().split())
